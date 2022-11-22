@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mia
-- 🌱 I’m currently learning or re-learning coding
+- 🌱 I’m currently re-learning to code
 - 💞️ I’m looking to collaborate on anything coming my way
 
 <!---
